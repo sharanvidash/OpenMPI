@@ -107,4 +107,3 @@ TOGGLING PLOTTING OF SIMULATION DATA TO SCREEN/PNG
 
   If you want to plot to the screen, make sure that 'PLOT_SCREEN' is defined. To
   plot to a PNG file, make sure that PLOT_PNG is defined.
-
